@@ -9,7 +9,7 @@ I work at [vimeo](https://vimeo.com) on the <strong>dev</strong><small>(eloper)<
 ### `find / -type www,contact,$  '*kathleen*'`
 
 - [site](https://kathleenfrench.co)
-- [email](mailto:kfrench09@gmail.com)
+- [email](mailto:kfrench.eng@gmail.com)
 - `kathleenfrench.eth` :coffee:
 
 ### `find / -type lang '*kathleen*'`
