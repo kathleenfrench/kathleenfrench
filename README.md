@@ -10,7 +10,6 @@ I work at [@dominodatalab](https://www.dominodatalab.com/) on the infrastructure
 
 - [site](https://kathleenfrench.co)
 - [email](mailto:kfrench.eng@gmail.com)
-- `kathleenfrench.eth` :coffee:
 
 ### `find / -type lang '*kathleen*'`
 
