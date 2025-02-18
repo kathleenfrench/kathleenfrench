@@ -4,7 +4,7 @@
 
 ### `find / -type work '*kathleen*'`
 
-I work at [@dominodatalab](https://www.dominodatalab.com/) on the infrastructure team
+I work at [@groq](https://www.groq.com/)
 
 ### `find / -type www,contact,$  '*kathleen*'`
 
